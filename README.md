@@ -2,4 +2,4 @@
 Git övning på workshop
 
 ## More Information
-See hemma
+See hemma där kan man se
